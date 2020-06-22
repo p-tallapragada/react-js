@@ -1,0 +1,78 @@
+{
+    "profiles":[
+        {
+             "basics":{
+                 "name":"Krishna Priya",
+                 "Role":"Student",
+                 "email":"krishnapriyatallaprgada@gmail.com",
+                 "Mobile no.":"9876067890",
+                 "Address":"Rajahmundry, Andhra Pradesh"
+             },
+             "summary":[
+                 "attended Raspberry pi workshop at IITM",
+                 "known languages- c, python ",
+                 "currently learning webdevelopment and ML using python "
+                
+             ],
+             "education qualification":[
+                {
+                    "qualification":"BTech - ECE",
+                    "institution":"ucek-jntuk",
+                    "percentage":"still studying"
+                },
+                
+
+                {
+                    "qualification":"Intermediate",
+                    "institution":"Prathibha JUnior Collegek",
+                    "percentage":"97.8"
+                },
+                
+                 {
+                    "qualification":"SSC",
+                    "institution":"Sri Gowthami Smart School",
+                    "percentage":"98"
+
+                 }
+             ]
+        },
+        {
+            "basics":{
+                "name":"Priya Tallapragada",
+                "Role":"Writer",
+                "email":"priyatallaprgada@outlook.com",
+                "Mobile no.":"9877767890",
+                "Address":"Rajahmundry, Andhra Pradesh"
+            },
+            "summary":[
+                "presently doing a content writing course online",
+                "participated in several content writing competitions ",
+                "highly interested in reading books and analysing them"
+               
+            ],
+        
+        "education qualification":[
+           {
+               "qualification":"BTech - ECE",
+               "institution":"ucek-jntuk",
+               "percentage":"still studying"
+           },
+           
+
+           {
+               "qualification":"Intermediate",
+               "institution":"Prathibha JUnior Collegek",
+               "percentage":"97.8"
+           },
+           
+            {
+               "qualification":"SSC",
+               "institution":"Sri Gowthami Smart School",
+               "percentage":"98"
+
+            }
+        ]
+
+        }
+    ]
+}
